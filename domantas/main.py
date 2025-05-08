@@ -517,7 +517,7 @@ def change_scene(new_scene):
 def start():
     global text, choice_buttons
     # This is the label that will contain the story's text,
-    text = tk.Label(window, wraplength=2000, font=('Garamond', 25), bg='white', fg='black')
+    text = tk.Label(window, wraplength=1000, font=('Garamond', 25), bg='white', fg='black')
     text.pack(pady=20, padx=100, anchor='center', expand=True)
     # And the buttons
     choice_buttons = tk.Frame(window, bg='white')
