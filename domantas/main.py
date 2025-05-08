@@ -1,7 +1,5 @@
 import sys
 import tkinter as tk
-from openai import OpenAI
-
 
 # Exit function
 def close_window():
