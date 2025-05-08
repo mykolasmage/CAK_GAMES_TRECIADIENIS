@@ -286,5 +286,4 @@ def paleisti():
 
 if __name__ == "__main__":
     paleisti()
-message.txt
-9 KB
+
