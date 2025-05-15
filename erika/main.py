@@ -5,7 +5,7 @@ istorija = {
         "tekstas": "You wake up at the edge of the Forest of Fate.\n There are two paths leading away from it.\n A path to the north and a path to the east. Witch one will you take?", 
         "pasirinkimai": {
             "Go to the north": "urvas", 
-            "Go to the east": "Caltia1"
+            "Go to the east": "upe"
         }, 
     }, 
 
