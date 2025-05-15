@@ -239,5 +239,4 @@ def paleisti():
 
 if __name__ == "__main__":
     paleisti()
-MainGame.py
-6 KB
+
