@@ -98,13 +98,81 @@ istorija = {
         }
     },
     "pabaiga": {
-        "tekstas": "Tave isgelbejo!",
+        "tekstas": "Tave rado ir isgelbejo!",
         "pasirinkimai": {
             "zaisti is naujo": "pradzia",
             
         }
 
+    },
+    "gyvaciu lyzdas": {
+        "tekstas": "Ten Buvo gyvates",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    "vabzdziai": {
+        "tekstas": "Tave puole vabzdziai",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    "krokodilas": {
+        "tekstas": "Tave suvalge krokodilas",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    "prakeiksmas": {
+        "tekstas": "Tu gavai prakeiksma ir numirei",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    "vaiduoklis": {
+        "tekstas": "Tave iki mirties isgasdino vaiduoklis",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    "jis tave pervercia": {
+        "tekstas": "Arklys tave pervercia ir tu zudai",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+    
+    "Jis nubego": {
+        "tekstas": "Arklys nubego",
+        "pasirinkimai": {
+            "Eiti tuoliau": "pieva2"
+            
+        }
+    },
+
+
+    "jie buvo nuodingi": {
+        "tekstas": "Tie grybai buvo nuodingi",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
+    },
+
+     "Ten buvo gyvates": {
+        "tekstas": "Ten buvo gyvates",
+        "pasirinkimai": {
+            "zaisti is naujo": "pradzia",
+            
+        }
     }
+    
 
 
 }
@@ -171,3 +239,5 @@ def paleisti():
 
 if __name__ == "__main__":
     paleisti()
+MainGame.py
+6 KB
